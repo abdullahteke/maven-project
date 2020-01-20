@@ -1,4 +1,5 @@
 /**
+* bu paketea gasdfas 
 * @author abdullahteke@gmail.com
 * @version 1.0
 */
@@ -17,7 +18,7 @@ public class Greeter {
 
   }
 
-
+/** {@inheritDoc}*/
   public final String greet(final String someone) {
     return String.format("Hello MR, %s!", someone);
   }
