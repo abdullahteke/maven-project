@@ -1,6 +1,4 @@
 /**
-*
-*	This is a package for say hello
+*This is a package for say hello
 */
-
 package com.example;
