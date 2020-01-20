@@ -1,5 +1,4 @@
 /**
-* bu paketea gasdfas 
 * @author abdullahteke@gmail.com
 * @version 1.0
 */
