@@ -1,6 +1,5 @@
 package com.example;
 
-@author abdullahteke@gmail.com
 
 import org.junit.Before;
 import org.junit.Test;
