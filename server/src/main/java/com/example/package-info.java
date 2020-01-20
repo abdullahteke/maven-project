@@ -1,4 +1,4 @@
 /**
-*This is a package for say hello
+* {@inheritDocs}
 */
 package com.example;
